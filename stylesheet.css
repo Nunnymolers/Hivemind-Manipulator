@@ -6,6 +6,7 @@
 body{
 	background-image:url(https://images.unsplash.com/photo-1506947411487-a56738267384?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6f5596ba6b837db36476f23f9537f237&auto=format&fit=crop&w=1498&q=80);
 	text-align:center;
+	background-color:#36393e;
 }
 
 div{
@@ -13,6 +14,10 @@ div{
 	color:#36393e;
 	margin:10vh 35vw;
 	padding:2vw;
+}
+
+p{
+	font-family: 'Open Sans', sans-serif;
 }
 
 h1{
