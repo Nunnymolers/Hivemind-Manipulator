@@ -1,0 +1,29 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	background-image:url(https://images.unsplash.com/photo-1506947411487-a56738267384?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6f5596ba6b837db36476f23f9537f237&auto=format&fit=crop&w=1498&q=80);
+	text-align:center;
+}
+
+div{
+	background-color:white;
+	color:#36393e;
+	margin:10vh 35vw;
+	padding:2vw;
+}
+
+h1{
+	font-family: 'Do Hyeon', sans-serif;
+}
+
+#header{
+	font-family: 'Do Hyeon', sans-serif;
+	margin:0;
+	padding:1vw;
+	background-color:#36393e;
+	color:white;
+	font-size:2vw;
+}
