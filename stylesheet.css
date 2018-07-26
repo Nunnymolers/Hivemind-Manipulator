@@ -32,7 +32,7 @@ h1{
 	font-family: 'Do Hyeon', sans-serif;
 	margin:0;
 	padding:1vw;
-	background:transparent;
+	background-color: #36393e ;
 	color:white;
 	font-size:2vw;
 	text-align:left;
@@ -41,6 +41,7 @@ h1{
 }
 
 a{
+	font-family: 'Do Hyeon', sans-serif;
 	color:white;
 	float:right;
 	padding-right:4vw;
@@ -62,4 +63,12 @@ label.jobName{
 	font-size:1.3vw;
 	font-style: bold;
 	margin-top:2vw;
+}
+
+.pagination{
+	background:transparent;
+}
+
+.pagination a{
+	color:white;
 }
