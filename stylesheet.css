@@ -18,10 +18,12 @@ div{
 }
 
 p{
+	font-size:1vw;
 	font-family: 'Open Sans', sans-serif;
 }
 
 h1{
+	font-size:2vw;
 	font-family: 'Do Hyeon', sans-serif;
 }
 
@@ -53,4 +55,10 @@ a:hover{
 .selected{
 	text-decoration: underline;
 	text-decoration-color: yellow;
+}
+
+.icon img{
+	width:3vw;
+	height:3vw;
+	border-radius: 50%;
 }
