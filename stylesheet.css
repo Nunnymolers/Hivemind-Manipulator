@@ -57,9 +57,9 @@ a:hover{
 	text-decoration-color: yellow;
 }
 
-}
 
-label.jobs{
-	font-size:1.7vw;
-	font-family: 'Do Hyeon', sans-serif;
+label.jobName{
+	font-size:1.3vw;
+	font-style: bold;
+	margin-top:2vw;
 }
