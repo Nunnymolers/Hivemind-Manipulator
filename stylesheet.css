@@ -72,3 +72,20 @@ label.jobName{
 .pagination a{
 	color:white;
 }
+
+table {
+    border-collapse: collapse;
+    color:#36393e;
+    margin-left:13vw;
+    font-size:1vw;
+	font-family: 'Open Sans', sans-serif;
+}
+
+table, th, td {
+    border: 1px solid #36393e;
+    padding:1vw;
+}
+
+.head{
+	
+}
