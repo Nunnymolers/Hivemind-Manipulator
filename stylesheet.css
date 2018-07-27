@@ -76,7 +76,6 @@ label.jobName{
 table {
     border-collapse: collapse;
     color:#36393e;
-    margin-left:13vw;
     font-size:1vw;
 	font-family: 'Open Sans', sans-serif;
 }
@@ -86,6 +85,7 @@ table, th, td {
     padding:1vw;
 }
 
-.head{
-	
+li{
+	text-align:left;
+	margin-left:1vw;
 }
